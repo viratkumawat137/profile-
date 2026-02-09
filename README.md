@@ -3,7 +3,7 @@ Learning the basics of Web Development and data scince.<br><br>👯 I’m lookin
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/virat_aaithan13)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratkumawat137@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/virat_aaithan13)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratkumawat137@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white (https://linkedin.com/in/www.linkedin.com/in/ sahil-kumawat-75532a3a1)]
 
 # 💻 Tech Stack:
 Python: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
