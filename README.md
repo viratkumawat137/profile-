@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# 💫 About Me:
 
 I am learning the basics of **Web Development** and **Data Science**, focusing on tools like **Excel**, **SQL**, and **Power BI**.
 
