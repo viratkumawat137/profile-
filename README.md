@@ -3,7 +3,7 @@
 I am learning the basics of **Web Development** and **Data Science**, focusing on tools like **Excel**, **SQL**, and **Power BI**.
 
 * 👯 **I’m looking to collaborate on:** Simple HTML/CSS and Data Analysis projects.
-* 🤝 **I’m looking for help with:** Mastering Python, SQL queries, and advanced CSS.
+* 🤝 **I’m looking for help with:** Mastering Python, SQL queries, and advanced CSS.                                 
 * 🌱 **I’m currently learning:** HTML, CSS, Python, **Excel**, **SQL**, and **Power BI**.
 * 💬 **Ask me about:** Basic web design, Data Visualization, or my GitHub journey.
 * ⚡ **Fun fact:** I love turning raw data into clean, simple, and visual web pages!
