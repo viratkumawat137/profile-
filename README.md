@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+              
 I am learning the basics of **Web Development** and **Data Science**, focusing on tools like **Excel**, **SQL**, and **Power BI**.
 
 * 👯 **I’m looking to collaborate on:** Simple HTML/CSS and Data Analysis projects.
